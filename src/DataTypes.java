@@ -23,7 +23,7 @@ public class DataTypes {
 
         float pi = 3.14f;
         float radius = 5.5f;
-        float area = pi * radius *radius;
+        float area = pi * radius * radius;
         System.out.println(area);
 
         // Casting
